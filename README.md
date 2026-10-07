@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abkarikari23.github.io-d9a441?style=for-the-badge&logo=githubpages&logoColor=white)](https://abkarikari23.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abkarikari23-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abkarikari23/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+233%2054%20704%200204-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/233547040204)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+233%2054%20704%200204-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/233201283577)
 [![Blog](https://img.shields.io/badge/Blog-abkarikari23.tech-171922?style=for-the-badge&logo=hashnode&logoColor=white)](https://abkarikari23.tech/)
 
 ---
