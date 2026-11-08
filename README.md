@@ -2,10 +2,13 @@
 
 **Python & AI Engineer in Ghana** building AI-powered software, automation, and backend systems that help businesses reduce repetitive work, improve operations, and turn ideas into working products.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abkarikari23.github.io-d9a441?style=for-the-badge&logo=githubpages&logoColor=white)](https://abkarikari23.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abkarikari23.tech-d9a441?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abkarikari23.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abkarikari23-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abkarikari23/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+233%2020%20128%203577-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/233201283577)
 [![Blog](https://img.shields.io/badge/Blog-abkarikari23.tech-171922?style=for-the-badge&logo=hashnode&logoColor=white)](https://abkarikari23.tech/)
+
+**Professional:** [info@abkarikari23.tech](mailto:info@abkarikari23.tech)<br>
+**Personal:** [abkarikari23@gmail.com](mailto:abkarikari23@gmail.com)
 
 ---
 
@@ -18,6 +21,8 @@ I help businesses and teams turn manual processes, technical problems and softwa
 - **IT, Infrastructure & Broadcast Technology** — technical support and solution planning across IT infrastructure, media systems, networking and reliability
 
 **Open to:** freelance AI and automation projects · technical consulting · remote Python roles
+
+For project inquiries, contact me at [info@abkarikari23.tech](mailto:info@abkarikari23.tech).
 
 ---
 
