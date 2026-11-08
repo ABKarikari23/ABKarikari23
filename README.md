@@ -1,4 +1,4 @@
-# Hi, I'm Abraham Nana Kofi Karikari 👋
+# Hi, I'm Abraham Nana Kofi Karikari 
 
 **Python & AI Engineer in Ghana** building AI-powered software, automation, and backend systems that help businesses reduce repetitive work, improve operations, and turn ideas into working products.
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 I help businesses and teams turn manual processes, technical problems and software ideas into practical digital solutions:
 
@@ -21,7 +21,7 @@ I help businesses and teams turn manual processes, technical problems and softwa
 
 ---
 
-## 🛠️ Skills & Stack
+##  Skills & Stack
 
 **AI & Agents**
 `AI Agents & LLM Applications` `Retrieval-Augmented Generation` `Multi-Agent Orchestration` `Workflow Automation` `Testing & Evaluation`
@@ -37,7 +37,7 @@ I help businesses and teams turn manual processes, technical problems and softwa
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### [AI Agents with Python 2026](https://github.com/ABKarikari23/ai-agents-with-python-2026)
 A 10-part series on designing and building AI agents in Python — tools, memory, RAG, multi-agent orchestration, automation, security, and a complete production project. Each part is a self-contained, tested codebase.
@@ -66,7 +66,7 @@ A web platform for running an auto repair business — Python backend and browse
 
 ---
 
-## ✍️ Technical Writing
+##  Technical Writing
 
 I publish practical articles about Python, AI, software engineering, IT infrastructure, cybersecurity and broadcast technology:
 
@@ -80,7 +80,7 @@ Follow along on [LinkedIn](https://www.linkedin.com/in/abkarikari23/) or [abkari
 
 ---
 
-## 📫 Let's Work Together
+##  Let's Work Together
 
 Have a problem worth automating? Tell me what you are trying to achieve and I will help you determine the next step.
 
